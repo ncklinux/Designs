@@ -4,7 +4,7 @@ Highlighting my innovative demo design works and visual communication to engage,
 
 ## Software
 
-My creative workflow began in BSD and GNU/Linux environments, with a strong emphasis on open-source and cross-platform design tools. Inkscape and GIMP have served as my primary applications for vector and raster graphics, respectively. For collaborative and web-based projects, I regularly use Figma, Penpot, and Corel Vector (formerly Gravit Designer).
+My creative workflow began in the very past with BSD and later (until now) on GNU/Linux environments, with a strong emphasis on open-source and cross-platform design tools. Inkscape and GIMP have served as my primary applications for vector and raster graphics, respectively. For collaborative and web-based projects, I regularly use Figma, Penpot, and Corel Vector (formerly Gravit Designer).
 
 I have also gained valuable experience with Affinity Designer, Affinity Photo, Adobe Illustrator, and Adobe Photoshop during opportunities to explore diverse design ecosystems on macOS.
 
