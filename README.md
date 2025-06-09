@@ -1,6 +1,18 @@
 # Designs
 
-Highlighting my innovative design works and visual communication to engage, inspire, and connect with the creative community
+Highlighting my innovative demo design works and visual communication to engage, inspire, and connect with the creative community!
+
+## Software
+
+My creative workflow began in BSD and GNU/Linux environments, with a strong emphasis on open-source and cross-platform design tools. Inkscape and GIMP have served as my primary applications for vector and raster graphics, respectively. For collaborative and web-based projects, I regularly use Figma, Penpot, and Corel Vector (formerly Gravit Designer).
+
+I have also gained valuable experience with Affinity Designer, Affinity Photo, Adobe Illustrator, and Adobe Photoshop during opportunities to explore diverse design ecosystems on macOS.
+
+| **Inkscape**                                                                                                       | **GIMP**                                                                                                               | **Affinity Designer**                                                                                                                  | **Affinity Photo**                                                                                                                | **Adobe Illustrator**                                                                                                                   | **Adobe Photoshop**                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" alt="Inkscape Logo" width="130"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP Logo" width="150"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Affinity_Designer_2-logo.svg" alt="Affinity Designer Logo" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg" alt="Affinity Photo Logo" width="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="105"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop Logo" width="105"/> |
+| GNU/Linux, macOS, Windows                                                                                          | GNU/Linux, macOS, Windows                                                                                              | Windows, macOS, iPad                                                                                                                   | Windows, macOS, iPad                                                                                                              | Windows, macOS                                                                                                                          | Windows, macOS, iPad                                                                                                                |
+| Free, open-source vector graphics editor for illustration, logo, and SVG design!                                   | Free, open-source raster graphics editor for photo editing, retouching, and digital art!                               | Paid vector and raster design tool for illustration, UI, and print!                                                                    | Paid, professional raster graphics editor for photo retouching!                                                                   | Industry-standard vector graphics editor for professional illustration and design!                                                      | Industry-standard raster graphics editor for advanced photo editing and digital art!                                                |
 
 ## Motivation
 
@@ -16,23 +28,6 @@ When challenges arise, I see them as opportunities to learn and innovate. A uniq
 | Keyboard eShop   | [Keyboard_eShop](https://github.com/ncklinux/Designs/blob/main/Keyboard_eShop/Keyboard_eShop.png)       |
 | Quality Designer | [Quality_Designer](https://github.com/ncklinux/Designs/blob/main/Quality_Designer/Quality_Designer.png) |
 | Sound eShop      | [Sound_eShop](https://github.com/ncklinux/Designs/blob/main/Sound_eShop/Sound_eShop.png)                |
-
-## Software
-
-My creative workflow began in BSD and GNU/Linux environments, with a strong emphasis on open-source and cross-platform design tools. Inkscape and GIMP have served as my primary applications for vector and raster graphics, respectively. For collaborative and web-based projects, I regularly use Figma, Penpot, and Corel Vector (formerly Gravit Designer).
-
-I have also gained valuable experience with Affinity Designer, Affinity Photo, Adobe Illustrator, and Adobe Photoshop during opportunities to explore diverse design ecosystems on macOS.
-
-| ![Inkscape Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg) | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP Logo" width="150"/>
-
-| Software              | Platforms                 | Description                                                                                         |
-| --------------------- | ------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Inkscape**          | GNU/Linux, macOS, Windows | Free, open-source vector graphics editor for illustration, logo, and SVG design.                    |
-| **GIMP**              | GNU/Linux, macOS, Windows | Free, open-source raster graphics editor for photo editing, retouching, and digital art.            |
-| **Affinity Designer** | Windows, macOS, iPad      | Paid vector and raster design tool for illustration, UI, and print; strong Illustrator alternative. |
-| **Affinity Photo**    | Windows, macOS, iPad      | Paid, professional raster graphics editor for photo retouching; alternative to Photoshop.           |
-| **Adobe Illustrator** | Windows, macOS            | Industry-standard vector graphics editor for professional illustration and design.                  |
-| **Adobe Photoshop**   | Windows, macOS, iPad      | Industry-standard raster graphics editor for advanced photo editing and digital art.                |
 
 ## License
 
