@@ -15,9 +15,9 @@ I have also gained valuable experience with Affinity Designer, Affinity Photo, A
 | Free, open-source vector illustration editor written in Rust! | Free, open-source photo editor written in Rust! | Free, open-source vector graphics editor for illustration, logo, and SVG design!                                   | Free, open-source raster graphics editor for photo editing, retouching, and digital art!                               | Unified professional suite for vector design, photo editing, and creative illustration, all in one powerful package!                | Industry-standard vector graphics editor for professional illustration and design!                                                      | Industry-standard raster graphics editor for advanced photo editing and digital art!                                                |
 ## Motivation
 
-Every design starts as a simple idea, a spark of imagination waiting to be brought to life. Creativity isn’t about perfection — it’s about expression, exploration, and daring to try something new. Each project completed, no matter how big or small, is a step forward on the journey of growth and mastery :wink:
+Every design starts as a simple idea, a spark of imagination waiting to be brought to life. Creativity isn’t about perfection, it’s about expression, exploration, and daring to try something new. Each project completed, no matter how big or small, is a step forward on the journey of growth and mastery :wink:
 
-When challenges arise, I see them as opportunities to learn and innovate. A unique perspective is the greatest strength. Keep pushing boundaries, stay curious, and never stop believing in the power of vision. The world needs creativity — so keep designing, keep dreaming, and keep shining!
+When challenges arise, I see them as opportunities to learn and innovate. A unique perspective is the greatest strength. Keep pushing boundaries, stay curious, and never stop believing in the power of vision. The world needs creativity, so keep designing, keep dreaming, and keep shining!
 
 ## Projects
 
